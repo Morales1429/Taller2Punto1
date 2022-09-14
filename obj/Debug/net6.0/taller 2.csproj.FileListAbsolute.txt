@@ -1,0 +1,5 @@
+C:\Users\t_nicolamor\Documents\VS\taller\obj\Debug\net6.0\taller 2.csproj.AssemblyReference.cache
+C:\Users\t_nicolamor\Documents\VS\taller\obj\Debug\net6.0\taller 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\t_nicolamor\Documents\VS\taller\obj\Debug\net6.0\taller 2.AssemblyInfoInputs.cache
+C:\Users\t_nicolamor\Documents\VS\taller\obj\Debug\net6.0\taller 2.AssemblyInfo.cs
+C:\Users\t_nicolamor\Documents\VS\taller\obj\Debug\net6.0\taller 2.csproj.CoreCompileInputs.cache
